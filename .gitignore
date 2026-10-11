@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+devices_raw.json
+devices_details.json
+devices_clean.json
+rapport_peripheriques.txt
+captures_ecran/
